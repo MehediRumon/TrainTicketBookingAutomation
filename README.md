@@ -54,7 +54,7 @@ xUnit
 
 How to Run
 Clone this repo
-git clone https://github.com/yourusername/yourrepo.git
+git clone
 
 Open with Visual Studio
 
@@ -62,4 +62,4 @@ Add your test data in /Data/TestData.xlsx
 
 Update appsettings.json
 
-Run tests via Test Explorer, CLI, or CI pipeline
+Run tests
